@@ -28,7 +28,7 @@ All the frontend stuff are in Frontend folder.
 Folder Documentation id where we keep all the files not connected to the code that were requiered for our studies.
 
 ```
-Bydlac
+StudentChat
 ├── Backend
 │   ├── api
 │   ├── base
