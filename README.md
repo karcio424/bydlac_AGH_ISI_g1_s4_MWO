@@ -1,4 +1,4 @@
-# Bydlac
+# StudentChat
 
 A Django-React Full-Stack App for chatting with other users and creating events in real life.
 This project was created for our studies.
@@ -56,7 +56,7 @@ Bydlac
 
 To run this up you need to use Docker and docker-compose. [How to get docker?](https://docs.docker.com/get-docker/).
 
-Proper .env file should be created in parent directory (Bydlac). For safety purpose it is not included in VCS.
+Proper .env file should be created in parent directory (StudentChat). For safety purpose it is not included in VCS.
 
 Before the first launch you need to build and apply django migrations.
 To do that you need to run from parent directory following commands:
